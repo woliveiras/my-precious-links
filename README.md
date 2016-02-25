@@ -17,3 +17,9 @@ Coisas interessantes acontecem durante o dia
 ## 2016/Fevereiro
 
 [Dia 25](./logs/2016/0225.md)
+
+## Como tenho feito
+
+Todos os links que for lendo durante o dia, vou salvando em um arquivo no [Dontpad](http://dontpad.com).
+
+Depois basta colocar tudo em ordem aqui no repositório! ;D
