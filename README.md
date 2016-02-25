@@ -10,6 +10,10 @@ Coisas interessantes acontecem durante o dia
 
 [Sobre mim](http://woliveiras.com.br/about/)
 
+## Favoritos
+
+[Links, artigos, sites favoritos.](./favorites)
+
 ## 2016/Fevereiro
 
 [Dia 25](./logs/2016/0225.md)
