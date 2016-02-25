@@ -3,7 +3,9 @@
 ## Novos links no README.md
 
 ```
-* [Dia XX](./logs/year/file.md) `tag` `tag` `tag`
+## Ano/Mês
+
+* [Dia XX](./logs/year/file.md) [`tag`](link) [`tag`](link) [`tag`](link)
 ```
 
 ## Novo arquivo na pasta logs/year/
@@ -22,6 +24,8 @@ Nome do arquivo: `mesdia.md`
 1. [Tópico/Categoria](link)
 ```
 
+**OBS:** `[``tag``](link)` é o caminho(âncora) para o(a) tópico/categoria no arquivo.
+
 ## Tags, tópicos, categorias, etc
 
 `Aprendi`
@@ -31,3 +35,12 @@ Nome do arquivo: `mesdia.md`
 `Contribui`
 `21 dias`
 `Podcast`
+
+## Subcategorias
+
+`JavaScript`
+`HTML`
+`CSS`
+`Stylus`
+`Sass`
+`Nodejs`
