@@ -2,10 +2,10 @@
 
 Coisas interessantes acontecem durante o dia
 
-## Motivação
+**Motivação**
 
-Guardar os links interessantes que vejo durante o dia para poder rever ou para outras pessoas curtirem.
+*Guardar os links interessantes que vejo durante o dia para poder rever ou para outras pessoas curtirem.*
 
-Inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/).
+*Inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/).*
 
 ## 2016/02
