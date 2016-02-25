@@ -1,4 +1,3 @@
-![](./img/dailylog.svg)
 
 # Dailylog
 
