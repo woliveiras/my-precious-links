@@ -1,3 +1,5 @@
+![](./img/dailylog.svg)
+
 # Dailylog
 
 Coisas interessantes acontecem durante o dia
