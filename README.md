@@ -8,7 +8,7 @@ Coisas interessantes acontecem durante o dia
 
 *Inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/) e [Dailylog do Luiz Felipe](https://github.com/lfeh).*
 
-**[Sobre mim](http://woliveiras.com.br/about/)**
+[Sobre mim](http://woliveiras.com.br/about/)
 
 ## 2016/Fevereiro
 
