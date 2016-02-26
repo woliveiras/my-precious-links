@@ -10,6 +10,10 @@
 
 Todo conhecimento pode ser útil.
 
+## O que é esse repositório?
+
+Todos os meus links favoritos. Use e abuse desses caras! =P
+
 ## Links e tags
 
   * [Front End](./links/FRONTEND.md)
