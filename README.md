@@ -8,11 +8,15 @@
 
 ## Motivação
 
-Todo conhecimento deve ser compartilhado.
+Todo conhecimento pode ser útil.
 
-Links que eu acho úteis para rever no futuro ou que podem beneficiar outras pessoas ficam em [`/links`](./links).
+# Links
 
-Os meus links favoritos ficam em [`/favorites`](./favorites)
+* [Front End](./links/FRONTEND.md)
+* [Back End](./links/BACKEND.md)
+* [Courses](./links/COURSES.md)
+* [Tools](./links/TOOLS.md)
+* [Others](./links/OTHERS.md)
 
 **OBS**
 
