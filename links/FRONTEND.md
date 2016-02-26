@@ -3,13 +3,12 @@
 ## Tags
 
 [`geral`](#geral)
-[`webcomponents`](#)
+[`webcomponents`](#web-components)
 [`javascript`](#JavaScript)
-[``]()
-[``]()
-[``]()
-[``]()
-[``]()
+[`css`](#css)
+[`ai`](#arquitetura-de-informacao)
+[`podcast`](#podcast)
+[`artigos`](#artigos)
 
 ## Geral
 
