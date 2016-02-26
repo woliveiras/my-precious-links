@@ -3,10 +3,10 @@
 ## Tags
 
 [`geral`](#geral)
-[`webcomponents`](#web-components)
+[`web-components`](#web-components)
 [`javascript`](#javascript)
 [`css`](#css)
-[`ai`](#arquitetura-de-informacao)
+[`arquitetura-de-informação`](#arquitetura-de-informação)
 [`podcast`](#podcast)
 [`artigos`](#artigos)
 
