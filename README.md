@@ -18,9 +18,10 @@ Todo conhecimento pode ser útil.
 * [Tools](./links/TOOLS.md)
 * [Others](./links/OTHERS.md)
 
+
 **OBS**
 
-Esse repositório nasceu como Dailylogs, porém, depois de uma boa conversa com um amigo ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), decidi deixar somente os links mais importantes aqui para futuras consultas ou para outras pessoas interessadas em conhecimento.
+*Esse repositório nasceu como Dailylogs, porém, depois de uma boa conversa com um amigo ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), decidi deixar somente os links mais importantes aqui para futuras consultas ou para outras pessoas interessadas em conhecimento.*
 
 *Inicialmente inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/) e [Dailylog do Luiz Felipe](https://github.com/lfeh/dailylog).*
 
