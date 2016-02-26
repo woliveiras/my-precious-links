@@ -1,29 +1,30 @@
 <p align="center">
-  <img src="./img/dailylog.png" style="max-width:100%;"/>
+  <img src="./img/forbidenfruit.png" style="max-width:100%;"/>
 </p>
 
-# Dailylog
+# Forbidden fruit
 
-Coisas interessantes acontecem durante o dia
+> O conhecimento só te liberta da verdadeira prisão
 
-**Motivação**
+## Motivação
 
-*Guardar os links interessantes que vejo durante o dia para poder rever ou para outras pessoas curtirem.*
+Todo conhecimento pode ser útil.
 
-*Inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/) e [Dailylog do Luiz Felipe](https://github.com/lfeh/dailylog).*
+# Links
+
+* [Front End](./links/FRONTEND.md)
+* [Back End](./links/BACKEND.md)
+* [Courses](./links/COURSES.md)
+* [Tools](./links/TOOLS.md)
+* [Others](./links/OTHERS.md)
+
+
+**OBS**
+
+*Esse repositório nasceu como Dailylogs, porém, depois de uma boa conversa com um amigo ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), decidi deixar somente os links mais importantes aqui para futuras consultas ou para outras pessoas interessadas em conhecimento.*
+
+*Inicialmente inspirado em: [Dailylog do Zeh Fernandes](https://github.com/zehfernandes/dailylog/) e [Dailylog do Luiz Felipe](https://github.com/lfeh/dailylog).*
 
 [Sobre mim](http://woliveiras.com.br/about/)
 
-## Favoritos
 
-[Links, artigos, sites favoritos.](./favorites)
-
-## 2016/Fevereiro
-
-[Dia 25](./logs/2016/0225.md)
-
-## Como tenho feito
-
-Todos os links que for lendo durante o dia, vou salvando em um arquivo no [Dontpad](http://dontpad.com).
-
-Depois basta colocar tudo em ordem aqui no repositório! ;D
