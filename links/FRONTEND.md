@@ -4,7 +4,7 @@
 
 [`geral`](#geral)
 [`webcomponents`](#web-components)
-[`javascript`](#JavaScript)
+[`javascript`](#javascript)
 [`css`](#css)
 [`ai`](#arquitetura-de-informacao)
 [`podcast`](#podcast)
