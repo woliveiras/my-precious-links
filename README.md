@@ -8,20 +8,15 @@
 
 Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
 
-## Links e tags
+## Tag cloud
 
-  * [Front End](./links/FRONTEND.md)
-    * [`geral`](./links/FRONTEND.md#geral)
-    * [`web-components`](./links/FRONTEND.md#web-components)
-    * [`javascript`](./links/FRONTEND.md#javascript)
-    * [`css`](./links/FRONTEND.md#css)
-    * [`arquitetura-de-informação`](./links/FRONTEND.md#arquitetura-de-informação)
-    * [`podcast`](./links/FRONTEND.md#podcast)
-    * [`artigos`](./links/FRONTEND.md#artigos)
-  * [Back End](./links/BACKEND.md)
-  * [Courses](./links/COURSES.md)
-  * [Tools](./links/TOOLS.md)
-  * [Others](./links/OTHERS.md)
+[`geral`](./links/FRONTEND.md#geral)
+[`web-components`](./links/FRONTEND.md#web-components)
+[`javascript`](./links/FRONTEND.md#javascript)
+[`css`](./links/FRONTEND.md#css)
+[`arquitetura-de-informação`](./links/FRONTEND.md#arquitetura-de-informação)
+[`podcast`](./links/FRONTEND.md#podcast)
+[`artigos`](./links/FRONTEND.md#artigos)
 
 **OBS**
 
