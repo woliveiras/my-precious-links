@@ -1,18 +1,12 @@
 <p align="center">
-  <img src="./img/forbidenfruit.png" style="max-width:100%;"/>
+  <img src="./img/gollum-my-precious.png" style="max-width:100%;"/>
 </p>
 
-# Forbidden fruit
+# My precious links
 
-> O conhecimento só te liberta da verdadeira prisão
+## O que é?
 
-## Motivação
-
-Todo conhecimento pode ser útil.
-
-## O que é esse repositório?
-
-Todos os meus links favoritos. Use e abuse desses caras! =P
+Um repositório para meus links favoritos (aqueles do navegador, assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
 
 ## Links e tags
 
