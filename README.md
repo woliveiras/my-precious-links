@@ -6,7 +6,7 @@
 
 ## O que é?
 
-Um repositório para meus links favoritos (aqueles do navegador, assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
+Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
 
 ## Links e tags
 
