@@ -17,6 +17,12 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`arquitetura-de-informação`](./links/FRONTEND.md#arquitetura-de-informação)
 [`podcast`](./links/FRONTEND.md#podcast)
 [`artigos`](./links/FRONTEND.md#artigos)
+[`geral`](./links/COURSES.md#geral)
+[`front-end`](./links/COURSES.md#front-end)
+[`python`](./links/COURSES.md#python)
+[`javascript`](./links/COURSES.md#javascript)
+[`idiomas`](./links/COURSES.md#idiomas)
+[`Ciências da Computação`](./links/COURSES.md#ciências-da-computação)
 
 **OBS**
 
