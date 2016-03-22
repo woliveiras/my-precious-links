@@ -7,7 +7,7 @@
 [`python`](#python)
 [`javascript`](#javascript)
 [`idiomas`](#idiomas)
-[`Ciências-da-Computação`](#Ciências-da-Computação)
+[`Ciências da Computação`](#ciências-da-computação)
 
 ## Geral
 
