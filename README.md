@@ -10,6 +10,8 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 
 ## Tag cloud
 
+## FRONT END
+
 [`geral`](./links/FRONTEND.md#geral)
 [`web-components`](./links/FRONTEND.md#web-components)
 [`javascript`](./links/FRONTEND.md#javascript)
@@ -17,6 +19,9 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`arquitetura-de-informação`](./links/FRONTEND.md#arquitetura-de-informação)
 [`podcast`](./links/FRONTEND.md#podcast)
 [`artigos`](./links/FRONTEND.md#artigos)
+
+## COURSES
+
 [`geral`](./links/COURSES.md#geral)
 [`front-end`](./links/COURSES.md#front-end)
 [`python`](./links/COURSES.md#python)
