@@ -29,7 +29,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`idiomas`](./links/COURSES.md#idiomas)
 [`Ciências da Computação`](./links/COURSES.md#ciências-da-computação)
 
-## Links Favoritos
+## Melhores Links
 
 [`books`](./links/FAVORITES.md#books)
 [`nodejs`](./links/FAVORITES.md#nodejs)
