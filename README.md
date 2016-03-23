@@ -10,7 +10,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 
 ## Tag cloud
 
-### Favoritos
+### Sites/Blogs Favoritos
 
 [`geral`](./links/FRONTEND.md#geral)
 [`web-components`](./links/FRONTEND.md#web-components)
@@ -29,14 +29,13 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`idiomas`](./links/COURSES.md#idiomas)
 [`Ciências da Computação`](./links/COURSES.md#ciências-da-computação)
 
-## Links maneiros
+## Links Favoritos
 
-* [Free programming books](https://github.com/vhf/free-programming-books)
-* [Minimizing boilerplate with NPM & Makefiles](https://medium.com/@tjholowaychuk/minimizing-boilerplate-with-npm-makefiles-3cfdce2934e7#.vdlnvmtm9)
-* [Dev PodcastList Brazil](https://github.com/ogilvieira/dev-podcast-list-brazil)
-* [Better WordPress Development Workflow with WordPlate](http://www.sitepoint.com/wordplate/)
-* [Dirty Tricks From The Dark Corners Of Front-End (Slides, PDF)](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/)
-* [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
+[`books`](./links/FAVORITES.md#books)
+[`nodejs`](./links/FAVORITES.md#nodejs)
+[`front-end`](./links/FAVORITES.md#front-end-tricks)
+[`wordpress`](./links/FAVORITES.md#wordpress)
+[`podcasts`](./links/FAVORITES.md#podcasts)
 
 **OBS**
 
