@@ -29,6 +29,10 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`idiomas`](./links/COURSES.md#idiomas)
 [`Ciências da Computação`](./links/COURSES.md#ciências-da-computação)
 
+## Links maneiros
+
+* [Free programming books](https://github.com/vhf/free-programming-books)
+
 **OBS**
 
 *Esse repositório nasceu como Dailylogs, porém, depois de uma boa conversa com um amigo ([@marquinhusgoncalves](https://github.com/marquinhusgoncalves)), decidi deixar somente os links mais importantes aqui para futuras consultas ou para outras pessoas interessadas em conhecimento.*
