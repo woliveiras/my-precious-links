@@ -2,8 +2,6 @@
 
 ## Tags
 
-## Tags
-
 [`books`](#books)
 [`nodejs`](#nodejs)
 [`front-end`](#front-end-tricks)
