@@ -32,6 +32,11 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 ## Links maneiros
 
 * [Free programming books](https://github.com/vhf/free-programming-books)
+* [Minimizing boilerplate with NPM & Makefiles](https://medium.com/@tjholowaychuk/minimizing-boilerplate-with-npm-makefiles-3cfdce2934e7#.vdlnvmtm9)
+* [Dev PodcastList Brazil](https://github.com/ogilvieira/dev-podcast-list-brazil)
+* [Better WordPress Development Workflow with WordPlate](http://www.sitepoint.com/wordplate/)
+* [Dirty Tricks From The Dark Corners Of Front-End (Slides, PDF)](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/)
+* [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 
 **OBS**
 
