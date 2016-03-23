@@ -7,6 +7,7 @@
 [`front-end`](#front-end-tricks)
 [`wordpress`](#wordpress)
 [`podcasts`](#podcasts)
+[`tricks`](#tricks)
 
 ## Books
 
@@ -29,3 +30,7 @@
 
 * [Dirty Tricks From The Dark Corners Of Front-End (Slides, PDF)](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/)
 * [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
+
+## Tricks
+
+* [Public APIs](https://github.com/toddmotto/public-apis)
