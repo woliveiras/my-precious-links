@@ -2,7 +2,7 @@
   <img src="./img/gollum-my-precious.png" style="max-width:100%;"/>
 </p>
 
-# My precious links
+# My precious links [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## O que é?
 
