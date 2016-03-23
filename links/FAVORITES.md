@@ -2,7 +2,13 @@
 
 ## Tags
 
+## Tags
 
+[`books`](#books)
+[`nodejs`](#nodejs)
+[`front-end`](##front-end-tricks)
+[`wordpress`](#wordpress)
+[`podcasts`](#podcasts)
 
 ## Books
 
