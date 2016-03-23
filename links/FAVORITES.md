@@ -6,7 +6,7 @@
 
 [`books`](#books)
 [`nodejs`](#nodejs)
-[`front-end`](##front-end-tricks)
+[`front-end`](#front-end-tricks)
 [`wordpress`](#wordpress)
 [`podcasts`](#podcasts)
 
