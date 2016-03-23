@@ -36,6 +36,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`front-end`](./links/FAVORITES.md#front-end-tricks)
 [`wordpress`](./links/FAVORITES.md#wordpress)
 [`podcasts`](./links/FAVORITES.md#podcasts)
+[`tricks`](./links/FAVORITES.md#tricks)
 
 **OBS**
 
