@@ -8,6 +8,7 @@
 [`wordpress`](#wordpress)
 [`podcasts`](#podcasts)
 [`tricks`](#tricks)
+[`elixir`](#elixir)
 
 ## Books
 
@@ -34,3 +35,7 @@
 ## Tricks
 
 * [Public APIs](https://github.com/toddmotto/public-apis)
+
+## Elixir
+
+* [Elixir School](https://elixirschool.com/pt/lessons/basics/basics/)
