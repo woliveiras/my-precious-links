@@ -3,6 +3,7 @@
 ## Tags
 
 [`books`](#books)
+[`javascript`](#javascript)
 [`nodejs`](#nodejs)
 [`front-end`](#front-end-tricks)
 [`wordpress`](#wordpress)
@@ -14,6 +15,9 @@
 
 * [Free programming books](https://github.com/vhf/free-programming-books)
 
+## JavaScript
+
+* [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
 
 ## Nodejs
 
