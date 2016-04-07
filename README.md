@@ -32,6 +32,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 ## Melhores Links
 
 [`books`](./links/FAVORITES.md#books)
+[`javascript`](./links/FAVORITES.md#javascript)
 [`nodejs`](./links/FAVORITES.md#nodejs)
 [`front-end`](./links/FAVORITES.md#front-end-tricks)
 [`wordpress`](./links/FAVORITES.md#wordpress)
