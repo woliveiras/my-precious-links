@@ -18,6 +18,7 @@
 ## Nodejs
 
 * [Minimizing boilerplate with NPM & Makefiles](https://medium.com/@tjholowaychuk/minimizing-boilerplate-with-npm-makefiles-3cfdce2934e7#.vdlnvmtm9)
+* [You Don’t Know Node: Quick Intro to Core Features](http://webapplog.com/you-dont-know-node/#main)
 
 ## Podcasts
 
