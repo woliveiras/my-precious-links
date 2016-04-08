@@ -18,6 +18,7 @@
 ## JavaScript
 
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
+* [Dev Tools Challenger](http://devtoolschallenger.com/)
 
 ## Nodejs
 
