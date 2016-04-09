@@ -42,6 +42,7 @@
 ## Tricks
 
 * [Public APIs](https://github.com/toddmotto/public-apis)
+* [Learn x in y minutes](https://learnxinyminutes.com/)
 
 ## Elixir
 
