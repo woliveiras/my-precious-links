@@ -39,6 +39,8 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`podcasts`](./links/FAVORITES.md#podcasts)
 [`tricks`](./links/FAVORITES.md#tricks)
 [`elixir`](./links/FAVORITES.md#elixir)
+[`tools`](./links/FAVORITES.md#tools)
+[`security`](./links/FAVORITES.md#security)
 
 **OBS**
 
