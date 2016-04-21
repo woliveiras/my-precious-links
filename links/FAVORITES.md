@@ -10,6 +10,8 @@
 [`podcasts`](#podcasts)
 [`tricks`](#tricks)
 [`elixir`](#elixir)
+[`tools`](#tools)
+[`security`](#security)
 
 ## Books
 
@@ -49,3 +51,11 @@
 ## Elixir
 
 * [Elixir School](https://elixirschool.com/pt/lessons/basics/basics/)
+
+## Tools
+
+* [Micro, a modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro)
+
+## Security
+
+* [A collection of awesome penetration testing resources, tools and other shiny things](https://github.com/enaqx/awesome-pentest)
