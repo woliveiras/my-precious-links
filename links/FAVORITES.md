@@ -59,7 +59,7 @@
 
 ## Tools
 
-* [Micro, a modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro)
+* [VIM GALORE](https://github.com/mhinz/vim-galore)
 
 ## Security
 
