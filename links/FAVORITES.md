@@ -51,6 +51,7 @@
 * [Public APIs](https://github.com/toddmotto/public-apis)
 * [Learn x in y minutes](https://learnxinyminutes.com/)
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
+* [Server configs NGINX](https://github.com/h5bp/server-configs-nginx)
 
 ## Elixir
 
