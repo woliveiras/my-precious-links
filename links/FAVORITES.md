@@ -50,6 +50,7 @@
 
 * [Public APIs](https://github.com/toddmotto/public-apis)
 * [Learn x in y minutes](https://learnxinyminutes.com/)
+* [Awesome Lists](https://github.com/sindresorhus/awesome)
 
 ## Elixir
 
