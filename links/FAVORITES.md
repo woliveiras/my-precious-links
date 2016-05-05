@@ -45,6 +45,7 @@
 * [Dirty Tricks From The Dark Corners Of Front-End (Slides, PDF)](https://www.smashingmagazine.com/2016/03/dirty-tricks-dark-corners-front-end-slides-pdf/)
 * [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 * [You don’t need Grunt](https://medium.com/@julesbou/you-don-t-need-grunt-a48605915319#.ur7cyf7kd)
+* [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## Tricks
 
