@@ -46,6 +46,7 @@
 * [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 * [You don’t need Grunt](https://medium.com/@julesbou/you-don-t-need-grunt-a48605915319#.ur7cyf7kd)
 * [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 ## Tricks
 
