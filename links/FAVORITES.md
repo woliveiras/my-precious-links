@@ -16,6 +16,8 @@
 ## Books
 
 * [Free programming books](https://github.com/vhf/free-programming-books)
+* [Uma tradução em Português da série You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
+* [Front-End Developer Handbook](http://www.frontendhandbook.com)
 
 ## JavaScript
 
