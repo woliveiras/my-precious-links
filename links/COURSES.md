@@ -33,6 +33,7 @@
 
 - [CC50](http://cc50.com.br/)
 - [Pluralsight](https://github.com/ericdouglas/courses/tree/master/pluralsight#pluralsight---web-engineering)
+- [Open Source Society University](https://github.com/open-source-society/computer-science)
 
 ## Idiomas
 
