@@ -10,6 +10,7 @@
 [`podcasts`](#podcasts)
 [`tricks`](#tricks)
 [`elixir`](#elixir)
+[`go`](#golang)
 [`tools`](#tools)
 [`security`](#security)
 
@@ -64,6 +65,12 @@
 ## Elixir
 
 * [Elixir School](https://elixirschool.com/pt/lessons/basics/basics/)
+
+## Golang
+
+* [An Introduction to Programming in Go](http://www.golang-book.com/books/intro)
+* [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/index.html)
+* [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 ## Tools
 
