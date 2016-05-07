@@ -32,6 +32,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 ## Melhores Links
 
 [`books`](./links/FAVORITES.md#books)
+[`css`](./links/FAVORITES.md#css)
 [`javascript`](./links/FAVORITES.md#javascript)
 [`nodejs`](./links/FAVORITES.md#nodejs)
 [`front-end`](./links/FAVORITES.md#front-end-tricks)
@@ -39,6 +40,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`podcasts`](./links/FAVORITES.md#podcasts)
 [`tricks`](./links/FAVORITES.md#tricks)
 [`elixir`](./links/FAVORITES.md#elixir)
+[`go`](./links/FAVORITES.md#golang)
 [`tools`](./links/FAVORITES.md#tools)
 [`security`](./links/FAVORITES.md#security)
 
