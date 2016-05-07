@@ -66,6 +66,7 @@
 ## Tools
 
 * [VIM GALORE](https://github.com/mhinz/vim-galore)
+* [Awesome CLI Apps](https://github.com/aharris88/awesome-cli-apps)
 
 ## Security
 
