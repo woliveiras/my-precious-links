@@ -59,6 +59,7 @@
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Server configs NGINX](https://github.com/h5bp/server-configs-nginx)
 * [A Beginner’s Guide to HTTP and REST](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+* [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
 
 ## Elixir
 
