@@ -26,6 +26,7 @@
 * [Dev Tools Challenger](http://devtoolschallenger.com/)
 * [Service Worker Cookbook](https://serviceworke.rs/)
 * [Single page apps in depth](http://singlepageappbook.com/)
+* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 
 ## Nodejs
 
