@@ -26,6 +26,7 @@
 
 * [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 * [Um guia visual para Flexbox](http://edsonjunior.com/um-guia-visual-para-flexbox/)
+* [MaintainableCSS](http://maintainablecss.com/)
 
 ## JavaScript
 
