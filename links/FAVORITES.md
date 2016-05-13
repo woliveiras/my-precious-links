@@ -100,3 +100,4 @@
 * [Grokpodcast](http://www.grokpodcast.com)
 * [Dev na Estrada](http://devnaestrada.com.br/)
 * [DevCast](https://www.youtube.com/user/DevCastVideos)
+* [Podsemfio](http://www.garotasemfio.com.br/podcast/)
