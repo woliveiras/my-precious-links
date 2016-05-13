@@ -61,6 +61,8 @@
 * [You don’t need Grunt](https://medium.com/@julesbou/you-don-t-need-grunt-a48605915319#.ur7cyf7kd)
 * [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Why can't we find Front End developers?](https://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
 
 ## Tricks
 
