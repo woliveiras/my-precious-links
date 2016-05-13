@@ -14,6 +14,7 @@
 [`go`](#golang)
 [`tools`](#tools)
 [`security`](#security)
+[`podcasts`](#podcasts)
 
 ## Books
 
@@ -91,3 +92,8 @@
 ## Security
 
 * [A collection of awesome penetration testing resources, tools and other shiny things](https://github.com/enaqx/awesome-pentest)
+
+
+## Podcasts
+
+* [Foocast](http://foocast.io/)
