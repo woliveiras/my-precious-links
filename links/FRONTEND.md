@@ -47,8 +47,3 @@
 ## Podcast
 
 - [ZOFE](http://zofe.com.br/)
-
-## Artigos
-
-- [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- [Why can't we find Front End developers?](https://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
