@@ -38,6 +38,7 @@
 * [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 * [Can You “Over Organize” JavaScript?](https://css-tricks.com/can-you-over-organize-javascript/)
 * [https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/](How Do You Structure JavaScript? The Module Pattern Edition)
+* [The legend of JavaScript equality operator](http://rainsoft.io/the-legend-of-javascript-equality-operator/)
 
 ## Nodejs
 
