@@ -98,3 +98,4 @@
 
 * [Foocast](http://foocast.io/)
 * [Grokpodcast](http://www.grokpodcast.com)
+* [Dev na Estrada](http://devnaestrada.com.br/)
