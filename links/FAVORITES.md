@@ -16,6 +16,7 @@
 [`security`](#security)
 [`podcasts`](#podcasts)
 [`robotics-&-iot`](#robotics--iot)
+[`clojure`](#clojure)
 
 ## Books
 
@@ -109,3 +110,7 @@
 
 * [Johnny-Five](http://johnny-five.io/)
 * [ROBOTJS](https://github.com/octalmage/robotjs)
+
+## Clojure
+
+* [Awesome list of clojure resources](https://clojure.zeef.com/vlad.bokov)
