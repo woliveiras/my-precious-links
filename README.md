@@ -43,6 +43,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 [`go`](./links/FAVORITES.md#golang)
 [`tools`](./links/FAVORITES.md#tools)
 [`security`](./links/FAVORITES.md#security)
+[`robotics-&-iot`](./links/FAVORITES.md#robotics--iot)
 
 **OBS**
 
