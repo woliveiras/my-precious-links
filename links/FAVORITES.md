@@ -15,7 +15,7 @@
 [`tools`](#tools)
 [`security`](#security)
 [`podcasts`](#podcasts)
-[`robotics-&-iot`](#robotics-&-iot)
+[`robotics-&-iot`](#robotics--iot)
 
 ## Books
 
