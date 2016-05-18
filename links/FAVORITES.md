@@ -43,6 +43,7 @@
 * [https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/](How Do You Structure JavaScript? The Module Pattern Edition)
 * [The legend of JavaScript equality operator](http://rainsoft.io/the-legend-of-javascript-equality-operator/)
 * [JavaScript Jargons](http://jargon.js.org/)
+* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/debug/command-line/command-line-reference)
 
 ## Nodejs
 
