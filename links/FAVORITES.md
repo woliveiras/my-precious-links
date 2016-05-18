@@ -70,6 +70,7 @@
 * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Why can't we find Front End developers?](https://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
+* [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.hucg2qwhj)
 
 ## Tricks
 
