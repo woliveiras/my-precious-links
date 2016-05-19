@@ -24,6 +24,7 @@
 * [Uma tradução em Português da série You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)
 * [Front-End Developer Handbook](http://www.frontendhandbook.com)
 * [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/)
+* [Free Learning - Free Technology eBooks, Packt Publishing](https://www.packtpub.com/packt/offers/free-learning)
 
 ## CSS
 
