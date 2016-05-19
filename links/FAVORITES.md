@@ -96,6 +96,7 @@
 
 * [VIM GALORE](https://github.com/mhinz/vim-galore)
 * [Awesome CLI Apps](https://github.com/aharris88/awesome-cli-apps)
+* [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
 
 ## Security
 
