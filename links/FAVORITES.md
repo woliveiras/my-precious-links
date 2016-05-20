@@ -46,6 +46,7 @@
 * [JavaScript Jargons](http://jargon.js.org/)
 * [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/debug/command-line/command-line-reference)
 * [What's the Difference Between Java and JavaScript?](http://code.tutsplus.com/tutorials/whats-the-difference-between-java-and-javascript--cms-26194)
+* [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/)
 
 ## Nodejs
 
