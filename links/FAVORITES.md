@@ -23,6 +23,12 @@
 
 * [Clean Code: 1 Introdução](https://www.javascriptmasters.com.br/blog/teoria/clean-code-1-introducao/)
 * [Clean Code: 2 O que é código limpo?](https://www.javascriptmasters.com.br/blog/teoria/clean-code-2-o-que-e-codigo-limpo/)
+* [A Beginner’s Guide to HTTP and REST](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
+* [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
+* [MaintainableCSS](http://maintainablecss.com/)
+* [CSS Coding Techniques, Mozilla](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
+* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 ## Books
 
@@ -36,9 +42,7 @@
 
 * [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 * [Um guia visual para Flexbox](http://edsonjunior.com/um-guia-visual-para-flexbox/)
-* [MaintainableCSS](http://maintainablecss.com/)
 * [A Tale of CSS and Sass Precision](https://www.sitepoint.com/a-tale-of-css-and-sass-precision)
-* [CSS Coding Techniques, Mozilla](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
 
 ## JavaScript
 
@@ -46,7 +50,6 @@
 * [Dev Tools Challenger](http://devtoolschallenger.com/)
 * [Service Worker Cookbook](https://serviceworke.rs/)
 * [Single page apps in depth](http://singlepageappbook.com/)
-* [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
 * [Can You “Over Organize” JavaScript?](https://css-tricks.com/can-you-over-organize-javascript/)
 * [https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/](How Do You Structure JavaScript? The Module Pattern Edition)
 * [The legend of JavaScript equality operator](http://rainsoft.io/the-legend-of-javascript-equality-operator/)
@@ -77,7 +80,6 @@
 * [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 * [You don’t need Grunt](https://medium.com/@julesbou/you-don-t-need-grunt-a48605915319#.ur7cyf7kd)
 * [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
-* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Why can't we find Front End developers?](https://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
 * [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.hucg2qwhj)
@@ -88,8 +90,6 @@
 * [Learn x in y minutes](https://learnxinyminutes.com/)
 * [Awesome Lists](https://github.com/sindresorhus/awesome)
 * [Server configs NGINX](https://github.com/h5bp/server-configs-nginx)
-* [A Beginner’s Guide to HTTP and REST](http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
-* [Secrets of the Browser Developer Tools](http://devtoolsecrets.com/)
 
 ## Elixir
 
