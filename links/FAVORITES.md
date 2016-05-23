@@ -22,6 +22,7 @@
 ## Essentials
 
 * [Clean Code: 1 Introdução](https://www.javascriptmasters.com.br/blog/teoria/clean-code-1-introducao/)
+* [Clean Code: 2 O que é código limpo?](https://www.javascriptmasters.com.br/blog/teoria/clean-code-2-o-que-e-codigo-limpo/)
 
 ## Books
 
