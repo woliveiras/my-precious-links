@@ -2,6 +2,7 @@
 
 ## Tags
 
+[`essentials`](#essentials)
 [`books`](#books)
 [`css`](#css)
 [`javascript`](#javascript)
@@ -17,6 +18,10 @@
 [`podcasts`](#podcasts)
 [`robotics-&-iot`](#robotics--iot)
 [`clojure`](#clojure)
+
+## Essentials
+
+* [Clean Code: 1 Introdução](https://www.javascriptmasters.com.br/blog/teoria/clean-code-1-introducao/)
 
 ## Books
 
