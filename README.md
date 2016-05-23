@@ -31,6 +31,7 @@ Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim e
 
 ## Melhores Links
 
+[`essentials`](./links/FAVORITES.md#essentials)
 [`books`](./links/FAVORITES.md#books)
 [`css`](./links/FAVORITES.md#css)
 [`javascript`](./links/FAVORITES.md#javascript)
