@@ -4,9 +4,7 @@ layout: default
 
 ## Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
 
-### Courses links
-
-#### Tag Cloud!
+### Tag Cloud
 
 [`geral`](#geral)
 [`front-end`](#front-end)
@@ -14,6 +12,31 @@ layout: default
 [`javascript`](#javascript)
 [`idiomas`](#idiomas)
 [`Ciências da Computação`](#cincias-da-computao)
+[`geral`](#geral)
+[`web-components`](#web-components)
+[`javascript`](#javascript)
+[`css`](#css)
+[`arquitetura-de-informação`](#arquitetura-de-informação)
+[`podcast`](#podcast)
+[`artigos`](#artigos)
+[`essentials`](#essentials)
+[`books`](#books)
+[`css`](#css)
+[`javascript`](#javascript)
+[`nodejs`](#nodejs)
+[`front-end`](#front-end-tricks)
+[`wordpress`](#wordpress)
+[`podcasts`](#podcasts)
+[`tricks`](#tricks)
+[`elixir`](#elixir)
+[`go`](#golang)
+[`tools`](#tools)
+[`security`](#security)
+[`podcasts`](#podcasts)
+[`robotics-&-iot`](#robotics--iot)
+[`clojure`](#clojure)
+
+### Courses links
 
 ##### Geral
 
@@ -46,16 +69,6 @@ layout: default
 * [Duolingo](http://www.duolingo.com/){:target="_blank"}
 
 ### Front End links
-
-#### Tag Cloud!
-
-[`geral`](#geral)
-[`web-components`](#web-components)
-[`javascript`](#javascript)
-[`css`](#css)
-[`arquitetura-de-informação`](#arquitetura-de-informação)
-[`podcast`](#podcast)
-[`artigos`](#artigos)
 
 ##### Geral
 
@@ -97,25 +110,6 @@ layout: default
 
 
 ### Best Links!
-
-#### Tag Cloud!
-
-[`essentials`](#essentials)
-[`books`](#books)
-[`css`](#css)
-[`javascript`](#javascript)
-[`nodejs`](#nodejs)
-[`front-end`](#front-end-tricks)
-[`wordpress`](#wordpress)
-[`podcasts`](#podcasts)
-[`tricks`](#tricks)
-[`elixir`](#elixir)
-[`go`](#golang)
-[`tools`](#tools)
-[`security`](#security)
-[`podcasts`](#podcasts)
-[`robotics-&-iot`](#robotics--iot)
-[`clojure`](#clojure)
 
 ##### Essentials
 
