@@ -1,0 +1,13 @@
+# Site settings
+title: My Precious Links
+tag_text: My Precious Links
+description: "Links sobre JavaScript, Nodejs, Python, WordPress, Front-End, Back-End, HTML, CSS, Sass, Stylus, Golang e muito mais "
+url: "http://woliveiras.com.br/my-precious-links"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
