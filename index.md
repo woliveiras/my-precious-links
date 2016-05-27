@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Um repositório para meus links favoritos. - Aqueles do navegador mesmo. Assim eu limpo um pouco, pois, atualmente, já tenho 1200+).
+## Meus links favoritos sobre os mais diversos assuntos relacionados a tecnologia.
 
 ### Tag Cloud
 
