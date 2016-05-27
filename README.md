@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/gollum-my-precious.png" style="max-width:100%;"/>
+  <img src="./images/gollum-my-precious.png" style="max-width:100%;"/>
 </p>
 
 # My precious links
