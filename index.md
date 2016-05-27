@@ -47,7 +47,7 @@ layout: default
 
 ### Front End links
 
-##### Tags
+#### Tag Cloud!
 
 [`geral`](#geral)
 [`web-components`](#web-components)
@@ -98,7 +98,7 @@ layout: default
 
 ### Best Links!
 
-##### Tags
+#### Tag Cloud!
 
 [`essentials`](#essentials)
 [`books`](#books)
