@@ -78,6 +78,7 @@ layout: default
 * [MDN](https://developer.mozilla.org/pt-PT/){:target="_blank"}
 * [Cerebrobr](https://github.com/cerebrobr){:target="_blank"}
 * [Photoshop Etiquete](http://photoshopetiquette.com/){:target="_blank"}
+* [Front End Frameworks](http://codigosimples.net/frontend-frameworks/){:target="_blank"}
 
 ##### JavaScript
 
