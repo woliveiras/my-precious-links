@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -6,24 +6,13 @@
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+  {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
 
-    {% if site.env == 'production' %}
-      <link rel="stylesheet" href="{{ site.baseurl }}/my-precious-links/css/normalize.css">
-      <link rel="stylesheet" href="{{ site.baseurl }}/my-precious-links/css/solo.css">
-      <link rel="stylesheet" href="{{ site.baseurl }}/my-precious-links/css/syntax.css">
-      {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
-      <link rel="stylesheet" href="{{ site.baseurl }}/my-precious-links/css/rrssb.css">
-
-      <script src="{{ site.baseurl }}/my-precious-links/scripts/jquery.js"></script>
-    {% else %}
-      <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
-      <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
-      <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
-      {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
-      <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
-      <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
-    {% endif %}
-
+  <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
   <link rel="canonical" href="{{ site.url }}" />
 </head>
 <body>
@@ -38,10 +27,6 @@
       <p>Links por <a href="http://woliveiras.com.br">William Oliveira</a>, tema por <a href="http://jekyllthemes.org/themes/good-clean-read/">Adam Dueck</a>, hospedado no <a href="http://github.com/woliveiras/my-precious-links">GitHub</a>.</p>
     </div>
   </footer>
-    {% if site.env == 'production' %}
-      <script src="{{ site.baseurl }}/my-precious-links/scripts/rrssb.min.js"></script>
-    {% else %}
-      <script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
-    {% endif %}
+<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
 </body>
 </html>
