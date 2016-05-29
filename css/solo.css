@@ -155,6 +155,15 @@ word-wrap: break-word;
  }
 }
 
+.credits  {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #999999;
+    width: 60%;
+    margin: 40px auto;
+}
+
 table {
   width: 100%;
   border: 1px solid #ccc;
