@@ -16,7 +16,7 @@ layout: default
 [`web-components`](#web-components)
 [`javascript`](#javascript)
 [`css`](#css)
-[`arquitetura-de-informação`](#arquitetura-de-informação)
+[`arquitetura-de-informação`](#arquitetura-de-informao)
 [`podcast`](#podcast)
 [`artigos`](#artigos)
 [`essentials`](#essentials)
