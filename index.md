@@ -136,6 +136,7 @@ layout: default
 * [Awesome Flexbox](https://github.com/afonsopacifer/awesome-flexbox){:target="_blank"}
 * [Um guia visual para Flexbox](http://edsonjunior.com/um-guia-visual-para-flexbox/){:target="_blank"}
 * [A Tale of CSS and Sass Precision](https://www.sitepoint.com/a-tale-of-css-and-sass-precision){:target="_blank"}
+* [Trigonometri in Sass](https://unindented.org/articles/trigonometry-in-sass/){:target="_blank"}
 
 ##### JavaScript
 
