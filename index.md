@@ -24,7 +24,7 @@ layout: default
 [`css`](#css)
 [`javascript`](#javascript)
 [`nodejs`](#nodejs)
-[`front-end`](#front-end-tricks)
+[`front-end-tricks`](#front-end-tricks)
 [`wordpress`](#wordpress)
 [`podcasts`](#podcasts)
 [`tricks`](#tricks)
