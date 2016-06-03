@@ -146,6 +146,7 @@ layout: default
 * [What's the Difference Between Java and JavaScript?](http://code.tutsplus.com/tutorials/whats-the-difference-between-java-and-javascript--cms-26194){:target="_blank"}
 * [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/){:target="_blank"}
 * [Learn Functional JavaScript](https://github.com/afirdousi/learn-functional-javascript){:target="_blank"}
+* [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/){:target="_blank"}
 
 ##### Nodejs
 
