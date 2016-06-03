@@ -227,7 +227,7 @@ layout: default
 
 ##### Linux
 
-*[Learn the ways of Linux-fu, for free](https://linuxjourney.com/){:target="_blank"}
+* [Learn the ways of Linux-fu, for free](https://linuxjourney.com/){:target="_blank"}
 
 ### Compartilhe essa página nas redes sociais
 
