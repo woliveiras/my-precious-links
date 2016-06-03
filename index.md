@@ -6,18 +6,17 @@ layout: default
 
 ### Tag Cloud
 
-[`geral`](#geral)
-[`front-end`](#front-end)
-[`python`](#python)
-[`javascript`](#javascript)
-[`idiomas`](#idiomas)
-[`Ciências da Computação`](#cincias-da-computao)
-[`geral`](#geral)
+[`courses`](#courses)
+[`front-end-course`](#front-end-courses)
+[`python-courses`](#python-courses)
+[`javascript-courses`](#javascript-courses)
+[`languages-courses`](#languages-courses)
+[`computer-science-courses`](#computer-science-courses)
+[`general`](#general)
 [`web-components`](#web-components)
 [`javascript`](#javascript)
 [`css`](#css)
-[`arquitetura-de-informação`](#arquitetura-de-informao)
-[`podcast`](#podcast)
+[`information-architecture`](#information-architecture)
 [`artigos`](#artigos)
 [`essentials`](#essentials)
 [`books`](#books)
@@ -32,13 +31,12 @@ layout: default
 [`go`](#golang)
 [`tools`](#tools)
 [`security`](#security)
-[`podcasts`](#podcasts)
 [`robotics-&-iot`](#robotics--iot)
 [`clojure`](#clojure)
 
 ### Courses links
 
-##### Geral
+##### Courses
 
 * [Alura](http://www.alura.com.br/){:target="_blank"}
 * [iMasters](https://cursos.imasters.com.br/){:target="_blank"}
@@ -46,31 +44,31 @@ layout: default
 * [MVA](http://www.microsoftvirtualacademy.com/){:target="_blank"}
 * [Code Academy](http://www.codecademy.com/){:target="_blank"}
 
-##### Python
+##### Python Courses
 
 * [PyCursos](http://pycursos.com/){:target="_blank"}
 
-##### Front End
+##### Front End Courses
 
 * [Campus Tableless](http://campus.tableless.com.br/){:target="_blank"}
 
-##### JavaScript
+##### JavaScript Courses
 
 * [JS Ninja - Daciuk](https://github.com/da2k/curso-javascript-ninja){:target="_blank"}
 
-##### Ciências da Computação
+##### Computer Science Courses
 
 * [CC50](http://cc50.com.br/){:target="_blank"}{:target="_blank"}
 * [Pluralsight](https://github.com/ericdouglas/courses/tree/master/pluralsight#pluralsight---web-engineering){:target="_blank"}
 * [Open Source Society University](https://github.com/open-source-society/computer-science){:target="_blank"}
 
-##### Idiomas
+##### Languages Courses
 
 * [Duolingo](http://www.duolingo.com/){:target="_blank"}
 
 ### Front End links
 
-##### Geral
+##### General
 
 * [Loop infinito](http://setup.loopinfinito.com.br/){:target="_blank"}
 * [Tutorial Web Design](http://www.tutorialwebdesign.com.br/){:target="_blank"}
@@ -101,14 +99,9 @@ layout: default
 
 * [Google Web Components](http://googlewebcomponents.github.io/){:target="_blank"}
 
-##### Arquitetura de Informação
+##### Information Architecture
 
-* [Arquitetura de Informação](http://arquiteturadeinformacao.com/){:target="_blank"}
-
-##### Podcast
-
-* [ZOFE](http://zofe.com.br/){:target="_blank"}
-
+* [Arquitetura de Informação, Blog](http://arquiteturadeinformacao.com/){:target="_blank"}
 
 ### Best Links!
 
@@ -165,6 +158,7 @@ layout: default
 ##### Podcasts
 
 * [Dev PodcastList Brazil](https://github.com/ogilvieira/dev-podcast-list-brazil){:target="_blank"}
+* [ZOFE](http://zofe.com.br/){:target="_blank"}
 
 ##### WordPress
 
