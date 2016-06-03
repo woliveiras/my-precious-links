@@ -14,7 +14,7 @@ layout: default
 [`computer-science-courses`](#computer-science-courses)
 [`general`](#general)
 [`web-components`](#web-components)
-[`javascript`](#javascript)
+[`javascript-favorites`](#javascript-favorites)
 [`css`](#css)
 [`information-architecture`](#information-architecture)
 [`artigos`](#artigos)
@@ -78,7 +78,7 @@ layout: default
 * [Photoshop Etiquete](http://photoshopetiquette.com/){:target="_blank"}
 * [Front End Frameworks](http://codigosimples.net/frontend-frameworks/){:target="_blank"}
 
-##### JavaScript
+##### JavaScript Favorites
 
 * [Jean Carlo Emer](http://jcemer.com/){:target="_blank"}
 * [ES6 Rocks](http://es6rocks.com/){:target="_blank"}
