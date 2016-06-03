@@ -33,6 +33,7 @@ layout: default
 [`security`](#security)
 [`robotics-&-iot`](#robotics--iot)
 [`clojure`](#clojure)
+[`linux`](#linux)
 
 ### Courses links
 
@@ -223,6 +224,10 @@ layout: default
 ##### Languages
 
 * [Track to learn English](https://github.com/jonathanslima/track-to-learn-english){:target="_blank"}
+
+##### Linux
+
+*[Learn the ways of Linux-fu, for free](https://linuxjourney.com/){:target="_blank"}
 
 ### Compartilhe essa página nas redes sociais
 
