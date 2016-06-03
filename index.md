@@ -155,11 +155,6 @@ layout: default
 * [How to Node](https://howtonode.org/){:target="_blank"}
 * [NodeSchool](http://nodeschool.io/){:target="_blank"}
 
-##### Podcasts
-
-* [Dev PodcastList Brazil](https://github.com/ogilvieira/dev-podcast-list-brazil){:target="_blank"}
-* [ZOFE](http://zofe.com.br/){:target="_blank"}
-
 ##### WordPress
 
 * [Better WordPress Development Workflow with WordPlate](http://www.sitepoint.com/wordplate/){:target="_blank"}
@@ -212,6 +207,8 @@ layout: default
 * [Dev na Estrada](http://devnaestrada.com.br/){:target="_blank"}
 * [DevCast](https://www.youtube.com/user/DevCastVideos){:target="_blank"}
 * [Podsemfio](http://www.garotasemfio.com.br/podcast/){:target="_blank"}
+* [Dev PodcastList Brazil](https://github.com/ogilvieira/dev-podcast-list-brazil){:target="_blank"}
+* [ZOFE](http://zofe.com.br/){:target="_blank"}
 
 ##### Robotics & IOT
 
