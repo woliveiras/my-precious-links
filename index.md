@@ -226,7 +226,3 @@ layout: default
 ### Compartilhe essa página nas redes sociais
 
 {% include sharing.html %}
-
-[^1]: This is a footnote. Click to return.
-
-[^2]: Here is another.
