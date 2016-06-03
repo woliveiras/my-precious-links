@@ -229,6 +229,6 @@ layout: default
 
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/){:target="_blank"}
 
-### Compartilhe essa página nas redes sociais
+### Share this page on Social Networks
 
 {% include sharing.html %}
