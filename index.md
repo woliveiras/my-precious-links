@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Meus links favoritos sobre os mais diversos assuntos relacionados a tecnologia.
+## My favorite links about various subjects related to Software Development and Technology
 
 ### Tag Cloud
 
