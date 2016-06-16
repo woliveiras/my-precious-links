@@ -149,6 +149,7 @@ layout: default
 * [Untangling Spaghetti Code: How to Write Maintainable JavaScript](https://www.sitepoint.com/write-maintainable-javascript/){:target="_blank"}
 * [Learn Functional JavaScript](https://github.com/afirdousi/learn-functional-javascript){:target="_blank"}
 * [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/){:target="_blank"}
+* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/){:target="_blank"}
 
 ##### Nodejs
 
