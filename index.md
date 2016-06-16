@@ -78,7 +78,6 @@ layout: default
 * [MDN](https://developer.mozilla.org/pt-PT/){:target="_blank"}
 * [Cerebrobr](https://github.com/cerebrobr){:target="_blank"}
 * [Photoshop Etiquete](http://photoshopetiquette.com/){:target="_blank"}
-* [Front End Frameworks](http://codigosimples.net/frontend-frameworks/){:target="_blank"}
 
 ##### JavaScript Favorites
 
@@ -119,6 +118,7 @@ layout: default
 * [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links){:target="_blank"}
 * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/){:target="_blank"}
 * [The Cost of Frameworks](https://aerotwist.com/blog/the-cost-of-frameworks/ ){:target="_blank"}
+* [Aprenda RegEx](http://aprenda.vidageek.net/aprenda/regex){:target="_blank"}
 
 ##### Books
 
