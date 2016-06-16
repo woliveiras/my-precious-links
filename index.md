@@ -151,6 +151,7 @@ layout: default
 * [Learn Functional JavaScript](https://github.com/afirdousi/learn-functional-javascript){:target="_blank"}
 * [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/){:target="_blank"}
 * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/){:target="_blank"}
+* [History and Background of JavaScript Module Loaders](http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders){:target="_blank"}
 
 ##### Nodejs
 
