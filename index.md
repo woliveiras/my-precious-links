@@ -96,6 +96,7 @@ layout: default
 * [Learn Layout](http://pt-br.learnlayout.com/){:target="_blank"}
 * [The Sass Way](http://thesassway.com/){:target="_blank"}
 * [Sass Guidelines](http://sass-guidelin.es/){:target="_blank"}
+* [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css){:target="_blank"}
 
 ##### Web Components
 
