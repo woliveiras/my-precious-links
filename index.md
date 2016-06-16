@@ -6,6 +6,7 @@ layout: default
 
 ### Tag Cloud
 
+[`android`](#android)
 [`courses`](#courses)
 [`front-end-course`](#front-end-courses)
 [`python-courses`](#python-courses)
@@ -160,6 +161,10 @@ layout: default
 ##### WordPress
 
 * [Better WordPress Development Workflow with WordPlate](http://www.sitepoint.com/wordplate/){:target="_blank"}
+
+##### Android
+
+* [06 passos essenciais para começar com Android Studio](http://www.androidpro.com.br/android-studio-passos-essenciais-para-comecar){:target="_blank"}
 
 ##### Front End Tricks
 
