@@ -119,6 +119,7 @@ layout: default
 * [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/){:target="_blank"}
 * [The Cost of Frameworks](https://aerotwist.com/blog/the-cost-of-frameworks/ ){:target="_blank"}
 * [Aprenda RegEx](http://aprenda.vidageek.net/aprenda/regex){:target="_blank"}
+* [Web Fundamentals - Google](https://developers.google.com/web/fundamentals/){:target="_blank"}
 
 ##### Books
 
