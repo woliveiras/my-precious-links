@@ -153,7 +153,8 @@ layout: default
 * [Regular Expressions in JavaScript](https://www.sitepoint.com/expressions-javascript/){:target="_blank"}
 * [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/){:target="_blank"}
 * [History and Background of JavaScript Module Loaders](http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders){:target="_blank"}
-* [JavaScript in one Pic](https://github.com/coodict/javascript-in-one-pic)
+* [JavaScript in one Pic](https://github.com/coodict/javascript-in-one-pic){:target="_blank"}
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ptbr/){:target="_blank"}
 
 ##### Nodejs
 
