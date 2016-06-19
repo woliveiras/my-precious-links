@@ -191,6 +191,7 @@ layout: default
 * [Learn x in y minutes](https://learnxinyminutes.com/){:target="_blank"}
 * [Awesome Lists](https://github.com/sindresorhus/awesome){:target="_blank"}
 * [Server configs NGINX](https://github.com/h5bp/server-configs-nginx){:target="_blank"}
+* [A handy guide to making money in open source](https://github.com/nayafia/lemonade-stand)
 
 ##### Elixir
 
