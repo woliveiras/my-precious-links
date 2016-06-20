@@ -155,6 +155,7 @@ layout: default
 * [History and Background of JavaScript Module Loaders](http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders){:target="_blank"}
 * [JavaScript in one Pic](https://github.com/coodict/javascript-in-one-pic){:target="_blank"}
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ptbr/){:target="_blank"}
+* [How do promises work](http://robotlolita.me/2015/11/15/how-do-promises-work.html){:target="_blank"}
 
 ##### Nodejs
 
