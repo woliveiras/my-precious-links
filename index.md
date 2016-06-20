@@ -157,6 +157,7 @@ layout: default
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ptbr/){:target="_blank"}
 * [How do promises work](http://robotlolita.me/2015/11/15/how-do-promises-work.html){:target="_blank"}
 * [Babel Handbook](https://github.com/thejameskyle/babel-handbook){:target="_blank"}
+* [Compositional Objects vs Classical inheritance](http://hwclass.in/2016/01/21/compositional-objects-vs-classical-inheritance/){:target="_blank"}
 
 ##### Nodejs
 
