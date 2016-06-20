@@ -156,6 +156,7 @@ layout: default
 * [JavaScript in one Pic](https://github.com/coodict/javascript-in-one-pic){:target="_blank"}
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ptbr/){:target="_blank"}
 * [How do promises work](http://robotlolita.me/2015/11/15/how-do-promises-work.html){:target="_blank"}
+* [Babel Handbook](https://github.com/thejameskyle/babel-handbook){:target="_blank"}
 
 ##### Nodejs
 
