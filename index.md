@@ -158,6 +158,7 @@ layout: default
 * [How do promises work](http://robotlolita.me/2015/11/15/how-do-promises-work.html){:target="_blank"}
 * [Babel Handbook](https://github.com/thejameskyle/babel-handbook){:target="_blank"}
 * [Compositional Objects vs Classical inheritance](http://hwclass.in/2016/01/21/compositional-objects-vs-classical-inheritance/){:target="_blank"}
+* [Redes Neurais em JavScript](http://imasters.com.br/front-end/javascript/redes-neurais-em-javascript){:target="_blank"}
 
 ##### Nodejs
 
