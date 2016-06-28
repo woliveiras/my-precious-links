@@ -186,8 +186,9 @@ layout: default
 * [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo){:target="_blank"}
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions){:target="_blank"}
 * [Why can't we find Front End developers?](https://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/){:target="_blank"}
-* [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.hucg2qwhj){:target="_blank"}
 * [Do Zero a Herói Front-End (Parte I)](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1){:target="_blank"}
+* [Do Zero a Herói Front-End (Parte II](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2){:target="_blank"}
+* [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.hucg2qwhj){:target="_blank"}
 * [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b?gi=e13f9ba5f4d4#.ex2rskg8b){:target="_blank"}
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks){:target="_blank"}
 
