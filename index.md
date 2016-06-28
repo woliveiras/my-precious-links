@@ -120,6 +120,7 @@ layout: default
 * [The Cost of Frameworks](https://aerotwist.com/blog/the-cost-of-frameworks/ ){:target="_blank"}
 * [Aprenda RegEx](http://aprenda.vidageek.net/aprenda/regex){:target="_blank"}
 * [Web Fundamentals - Google](https://developers.google.com/web/fundamentals/){:target="_blank"}
+* [Como aprender Frameworks](https://medium.com/@fernahh/como-aprender-web-frameworks-7063c4a6af28){:target="_blank"}
 
 ##### Books
 
