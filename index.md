@@ -121,6 +121,7 @@ layout: default
 * [Aprenda RegEx](http://aprenda.vidageek.net/aprenda/regex){:target="_blank"}
 * [Web Fundamentals - Google](https://developers.google.com/web/fundamentals/){:target="_blank"}
 * [Como aprender Frameworks](https://medium.com/@fernahh/como-aprender-web-frameworks-7063c4a6af28){:target="_blank"}
+* [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xyafc6t2i){:target="_blank"}
 
 ##### Books
 
