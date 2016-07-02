@@ -123,6 +123,7 @@ layout: default
 * [Como aprender Frameworks](https://medium.com/@fernahh/como-aprender-web-frameworks-7063c4a6af28){:target="_blank"}
 * [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xyafc6t2i){:target="_blank"}
 * [JS interview review](https://github.com/adam-s/js-interview-review){:target="_blank"}
+* [Vanilla JavaScript List](http://www.vanillalist.com/){:target="_blank"}
 
 ##### Books
 
