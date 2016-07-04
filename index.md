@@ -124,6 +124,7 @@ layout: default
 * [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xyafc6t2i){:target="_blank"}
 * [JS interview review](https://github.com/adam-s/js-interview-review){:target="_blank"}
 * [Vanilla JavaScript List](http://www.vanillalist.com/){:target="_blank"}
+* [Padrões de Projetos](https://brizeno.wordpress.com/padroes/){:target="_blank"}
 
 ##### Books
 
