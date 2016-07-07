@@ -126,6 +126,7 @@ layout: default
 * [JS interview review](https://github.com/adam-s/js-interview-review){:target="_blank"}
 * [Vanilla JavaScript List](http://www.vanillalist.com/){:target="_blank"}
 * [Padrões de Projetos](https://brizeno.wordpress.com/padroes/){:target="_blank"}
+* [The rendering process of a web page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc){:target="_blank"}
 
 ##### Books
 
