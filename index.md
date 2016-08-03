@@ -245,7 +245,7 @@ layout: default
 
 ##### Python
 
-[The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+[The Algorithms - Python](https://github.com/TheAlgorithms/Python){:target="_blank"}
 
 ##### Clojure
 
