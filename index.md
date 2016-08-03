@@ -33,6 +33,7 @@ layout: default
 [`tools`](#tools)
 [`security`](#security)
 [`robotics-&-iot`](#robotics--iot)
+[`python`](#python)
 [`clojure`](#clojure)
 [`linux`](#linux)
 
@@ -241,6 +242,10 @@ layout: default
 
 * [Johnny-Five](http://johnny-five.io/){:target="_blank"}
 * [ROBOTJS](https://github.com/octalmage/robotjs){:target="_blank"}
+
+##### Python
+
+[The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 
 ##### Clojure
 
