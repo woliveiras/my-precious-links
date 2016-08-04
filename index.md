@@ -205,7 +205,8 @@ layout: default
 * [Learn x in y minutes](https://learnxinyminutes.com/){:target="_blank"}
 * [Awesome Lists](https://github.com/sindresorhus/awesome){:target="_blank"}
 * [Server configs NGINX](https://github.com/h5bp/server-configs-nginx){:target="_blank"}
-* [A handy guide to making money in open source](https://github.com/nayafia/lemonade-stand)
+* [A handy guide to making money in open source](https://github.com/nayafia/lemonade-stand){:target="_blank"}
+* [Using a static generator at scale lessons learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned){:target="_blank"}
 
 ##### Elixir
 
