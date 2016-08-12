@@ -167,6 +167,7 @@ layout: default
 * [Babel Handbook](https://github.com/thejameskyle/babel-handbook){:target="_blank"}
 * [Compositional Objects vs Classical inheritance](http://hwclass.in/2016/01/21/compositional-objects-vs-classical-inheritance/){:target="_blank"}
 * [Redes Neurais em JavScript](http://imasters.com.br/front-end/javascript/redes-neurais-em-javascript){:target="_blank"}
+* [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/){:target="_blank"}
 
 ##### Nodejs
 
