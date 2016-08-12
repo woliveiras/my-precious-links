@@ -98,6 +98,7 @@ layout: default
 * [Sass Guidelines](http://sass-guidelin.es/){:target="_blank"}
 * [Form Validation UX in HTML and CSS](https://css-tricks.com/form-validation-ux-html-css){:target="_blank"}
 * [Acessible SVG](https://css-tricks.com/accessible-svgs/){:target="_blank"}
+* [Battling BEM (Extended Edition): 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 
 ##### Web Components
 
