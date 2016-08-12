@@ -199,6 +199,7 @@ layout: default
 * [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.hucg2qwhj){:target="_blank"}
 * [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b?gi=e13f9ba5f4d4#.ex2rskg8b){:target="_blank"}
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks){:target="_blank"}
+* [Cleaning House after Internet Explorer](https://www.sitepoint.com/cleaning-house-after-internet-explorer/){:target="_blank"}
 
 ##### Tricks
 
