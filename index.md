@@ -209,6 +209,7 @@ layout: default
 * [Server configs NGINX](https://github.com/h5bp/server-configs-nginx){:target="_blank"}
 * [A handy guide to making money in open source](https://github.com/nayafia/lemonade-stand){:target="_blank"}
 * [Using a static generator at scale lessons learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned){:target="_blank"}
+* [Dicas para quem quer começar a palestrar](https://nandovieira.com.br/dicas-para-quem-quer-comecar-a-palestrar){:target="_blank"}
 
 ##### Elixir
 
