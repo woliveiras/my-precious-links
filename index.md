@@ -179,6 +179,7 @@ layout: default
 * [NodeSchool](http://nodeschool.io/){:target="_blank"}
 * [MockNode](https://medium.com/@i.anunay/mocknode-e338f793dba0#.8ki22de0r){:target="_blank"}
 * [11 Simple npm Tricks That Will Knock Your Wombat Socks Off](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/){:target="_blank"}
+* [Node.js Best Practices](https://www.codementor.io/nodejs/tutorial/nodejs-best-practices){:target="_blank"}
 
 ##### WordPress
 
