@@ -36,6 +36,7 @@ layout: default
 [`python`](#python)
 [`clojure`](#clojure)
 [`linux`](#linux)
+[`jekyll`](#jekyll)
 
 ### Courses links
 
@@ -266,6 +267,10 @@ layout: default
 ##### Linux
 
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/){:target="_blank"}
+ 
+##### Jekyll
+
+* [Content Modeling With Jekyll](https://www.smashingmagazine.com/2016/02/content-modeling-with-jekyll/){:target="_blank"}
 
 ### Share this page on Social Networks
 
