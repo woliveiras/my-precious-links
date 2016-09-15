@@ -169,6 +169,7 @@ layout: default
 * [Compositional Objects vs Classical inheritance](http://hwclass.in/2016/01/21/compositional-objects-vs-classical-inheritance/){:target="_blank"}
 * [Redes Neurais em JavScript](http://imasters.com.br/front-end/javascript/redes-neurais-em-javascript){:target="_blank"}
 * [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/){:target="_blank"}
+* [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs){:target="_blank"}
 
 ##### Nodejs
 
