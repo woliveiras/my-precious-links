@@ -232,6 +232,7 @@ layout: default
 * [VIM GALORE](https://github.com/mhinz/vim-galore){:target="_blank"}
 * [Awesome CLI Apps](https://github.com/aharris88/awesome-cli-apps){:target="_blank"}
 * [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles){:target="_blank"}
+* [A vimrc that Just Works™ for modern JavaScript development](https://github.com/zperrault/vimrc.js){:target="_blank"}
 
 ##### Security
 
