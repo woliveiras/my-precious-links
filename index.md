@@ -171,7 +171,7 @@ layout: default
 * [Redes Neurais em JavScript](http://imasters.com.br/front-end/javascript/redes-neurais-em-javascript){:target="_blank"}
 * [Quick Tip: Function Expressions vs Function Declarations](https://www.sitepoint.com/function-expressions-vs-declarations/){:target="_blank"}
 * [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs){:target="_blank"}
-* [RxJS | The ReactiveX library for JavaScript](http://reactivex.io/rxjs/manual/overview.html){:target="_blank"}
+* [RxJS - The ReactiveX library for JavaScript](http://reactivex.io/rxjs/manual/overview.html){:target="_blank"}
 
 ##### Nodejs
 
