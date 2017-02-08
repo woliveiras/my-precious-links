@@ -173,6 +173,7 @@ layout: default
 * [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs){:target="_blank"}
 * [RxJS - The ReactiveX library for JavaScript](http://reactivex.io/rxjs/manual/overview.html){:target="_blank"}
 * [O Guia do ES6: TUDO que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-você-precisa-saber-8c287876325f){:target="_blank"}
+* [fetch API](https://davidwalsh.name/fetch){:target="_blank"}
 
 ##### Nodejs
 
