@@ -280,6 +280,7 @@ layout: default
 ##### Command line
 
 * [A curated list of shell commands and tools specific to OS X](https://github.com/herrbischoff/awesome-osx-command-line){:target="_blank"}
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line){:target="_blank"}
 
 ### Share this page on Social Networks
 
