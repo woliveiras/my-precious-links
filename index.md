@@ -37,6 +37,7 @@ layout: default
 [`clojure`](#clojure)
 [`linux`](#linux)
 [`jekyll`](#jekyll)
+[`command-line`](#command-line)
 
 ### Courses links
 
@@ -275,6 +276,10 @@ layout: default
 ##### Jekyll
 
 * [Content Modeling With Jekyll](https://www.smashingmagazine.com/2016/02/content-modeling-with-jekyll/){:target="_blank"}
+
+##### Command line
+
+* [A curated list of shell commands and tools specific to OS X](https://github.com/herrbischoff/awesome-osx-command-line){:target="_blank"}
 
 ### Share this page on Social Networks
 
