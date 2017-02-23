@@ -177,6 +177,7 @@ layout: default
 * [O Guia do ES6: TUDO que você precisa saber](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-você-precisa-saber-8c287876325f){:target="_blank"}
 * [fetch API](https://davidwalsh.name/fetch){:target="_blank"}
 * [JavaScript Funcional](https://github.com/js-functional/js-funcional){:target="_blank"}
+* [Guia básico de ES6 (ECMAScript 2015)](https://github.com/ldaltro/guia-basico-ES6){:target="_blank"}
 
 ##### Nodejs
 
