@@ -131,6 +131,7 @@ layout: default
 * [Vanilla JavaScript List](http://www.vanillalist.com/){:target="_blank"}
 * [Padrões de Projetos](https://brizeno.wordpress.com/padroes/){:target="_blank"}
 * [The rendering process of a web page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc){:target="_blank"}
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans){:target="_blank"}
 
 ##### Books
 
