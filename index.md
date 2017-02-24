@@ -132,6 +132,7 @@ layout: default
 * [Padrões de Projetos](https://brizeno.wordpress.com/padroes/){:target="_blank"}
 * [The rendering process of a web page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc){:target="_blank"}
 * [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans){:target="_blank"}
+* [Mostly adequate guide to FP (in javascript, translated in portuguese)](https://github.com/MostlyAdequate/mostly-adequate-guide-pt-BR){:target="_blank"}
 
 ##### Books
 
