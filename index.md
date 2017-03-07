@@ -223,6 +223,7 @@ layout: default
 * [A handy guide to making money in open source](https://github.com/nayafia/lemonade-stand){:target="_blank"}
 * [Using a static generator at scale lessons learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned){:target="_blank"}
 * [Dicas para quem quer começar a palestrar](https://nandovieira.com.br/dicas-para-quem-quer-comecar-a-palestrar){:target="_blank"}
+* [The Ultimate Guide to API Design](https://blog.qmo.io/ultimate-guide-to-api-design/){:target="_blank"}
 
 ##### Elixir
 
