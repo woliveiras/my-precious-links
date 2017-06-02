@@ -179,6 +179,7 @@ layout: default
 * [fetch API](https://davidwalsh.name/fetch){:target="_blank"}
 * [JavaScript Funcional](https://github.com/js-functional/js-funcional){:target="_blank"}
 * [Guia básico de ES6 (ECMAScript 2015)](https://github.com/ldaltro/guia-basico-ES6){:target="_blank"}
+* [Learn Relay](https://www.learnrelay.org/){:target="_blank"}
 
 ##### Nodejs
 
