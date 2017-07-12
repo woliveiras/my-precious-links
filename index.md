@@ -181,6 +181,7 @@ layout: default
 * [Guia básico de ES6 (ECMAScript 2015)](https://github.com/ldaltro/guia-basico-ES6){:target="_blank"}
 * [Learn Relay](https://www.learnrelay.org/){:target="_blank"}
 * [Introduction to GraphQL](https://learngraphql.com/basics/introduction){:target="_blank"}
+* [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/){:target="_blank"}
 
 ##### Nodejs
 
