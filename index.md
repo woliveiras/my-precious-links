@@ -184,6 +184,7 @@ layout: default
 * [Introduction to GraphQL](https://learngraphql.com/basics/introduction){:target="_blank"}
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/){:target="_blank"}
 * [The MVC Design Pattern in Vanilla JavaScript](https://www.sitepoint.com/mvc-design-pattern-javascript/){:target="_blank"}
+* [JavaScript Cheat Sheet - WebsiteSetup](https://websitesetup.org/javascript-cheat-sheet/){:target="_blank"}
 
 ##### Nodejs
 
