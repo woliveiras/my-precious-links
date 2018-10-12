@@ -265,6 +265,7 @@ layout: default
 
 ##### Robotics & IOT
 
+* [Maker Pro](https://maker.pro/)
 * [Johnny-Five](http://johnny-five.io/)
 * [ROBOTJS](https://github.com/octalmage/robotjs)
 
