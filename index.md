@@ -39,6 +39,10 @@ layout: default
 [`jekyll`](#jekyll)
 [`command-line`](#command-line)
 
+## My precious tips
+
+- [Resumos de livros](https://go.hotmart.com/O11045269O)
+
 ### Courses links
 
 ##### Courses
