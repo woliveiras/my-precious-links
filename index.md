@@ -43,6 +43,7 @@ layout: default
 
 ##### Courses
 
+* [Curso de Linux](https://go.hotmart.com/E11031677M)
 * [Alura](http://www.alura.com.br/)
 * [iMasters](https://cursos.imasters.com.br/)
 * [CodeSquad](http://code-squad.com/)
