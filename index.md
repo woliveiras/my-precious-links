@@ -41,6 +41,7 @@ layout: default
 
 ## My precious tips
 
+- [Treinamento de meditação](https://go.hotmart.com/R11071789E)
 - [Resumos de livros](https://go.hotmart.com/O11045269O)
 - [Templates WordPress profissionais - Gratuitos e Pagos](https://ad.admitad.com/g/moo1u8nnd25b73c19bbaba5935dc1f/)
 - [VPN rápida e segura](https://ad.admitad.com/g/bto7qlgz5p5b73c19bba7c7b9871f0/)
