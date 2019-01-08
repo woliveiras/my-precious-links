@@ -42,6 +42,10 @@ layout: default
 ## My precious tips
 
 - [Resumos de livros](https://go.hotmart.com/O11045269O)
+- [Templates WordPress profissionais - Gratuitos e Pagos](https://ad.admitad.com/g/moo1u8nnd25b73c19bbaba5935dc1f/)
+- [VPN rápida e segura](https://ad.admitad.com/g/bto7qlgz5p5b73c19bba7c7b9871f0/)
+- [Outra opção de VPN para quem estiver procurando segurança na navegação](https://ad.admitad.com/g/mai1uhgx165b73c19bba004ed038cb/)
+- [Fotos de alta qualidade para usarmos em nosso conteúdo](https://ad.admitad.com/g/iadwayodtm5b73c19bba6f61936a04/)
 
 ### Courses links
 
