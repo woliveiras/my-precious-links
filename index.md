@@ -303,7 +303,3 @@ layout: default
 
 * [A curated list of shell commands and tools specific to OS X](https://github.com/herrbischoff/awesome-osx-command-line)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-
-### Share this page on Social Networks
-
-{% include sharing.html %}
