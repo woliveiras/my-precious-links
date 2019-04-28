@@ -1,13 +1,27 @@
-# Site settings
 title: My Precious Links
-tag_text: My Precious Links
+email: contato@woliveiras.dev
 description: "Links sobre JavaScript, Nodejs, Python, WordPress, Front-End, Back-End, HTML, CSS, Sass, Stylus, Golang e muito mais "
-url: "http://woliveiras.com.br/my-precious-links"
-baseurl: "/my-precious-links"
-
-font-awesome-include: true # make this false if you don't need font-awesome
+baseurl: ""
+url: ""
+twitter_username: w_oliveiras
+github_username:  woliveiras
 
 # Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 exclude: ["README.md"]
